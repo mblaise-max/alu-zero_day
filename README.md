@@ -1,1 +1,1 @@
-This repository contains my exercises and projects for the Git and GitHub learning module.
+I am shell scripting
